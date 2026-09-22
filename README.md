@@ -14,7 +14,6 @@ manufacturing-ai-practical/
 │   ├── cwru_normal.mat                 # CWRU 정상(Normal) 베어링 진동 데이터
 │   └── cwru_fault.mat                  # CWRU 결함(Inner Race Fault) 베어링 진동 데이터
 └── 3주차/
-    ├── README.md
     ├── linear_regression.ipynb         # 실습 3-1: 선형회귀 (Linear Regression)
     ├── logistic_regression.ipynb       # 실습 3-2: 로지스틱 회귀 (Logistic Regression)
     └── mnist_nn_classification.ipynb   # 실습 3-3: 신경망 분류 (Neural Network, MNIST)
@@ -29,8 +28,6 @@ manufacturing-ai-practical/
 | 3주차 | `linear_regression.ipynb` | TensorFlow를 활용한 선형회귀 | `Dense(1)`, MSE / SGD, 가중치·절편 학습, 샘플 수·잡음의 영향 |
 | 3주차 | `logistic_regression.ipynb` | 로지스틱 회귀로 Iris 이진 분류(Setosa vs 나머지) | 시그모이드, 표준화(StandardScaler), Binary Crossentropy, 결정 경계(Decision Boundary) 시각화 |
 | 3주차 | `mnist_nn_classification.ipynb` | 신경망을 활용한 MNIST 손글씨 숫자 분류 | 다층 신경망(ReLU·Softmax), One-hot 인코딩, Adam, 과적합(Overfitting) 관찰 |
-
-> 3주차 실습에 대한 자세한 설명은 [`3주차/README.md`](3주차/README.md)를 참고하세요.
 
 ## 데이터
 
